@@ -20,4 +20,4 @@
 ## Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/fusionx-commerce.git  
+   git clone https://github.com/i-am-abdulkafiy/fusionx-commerce.git  
